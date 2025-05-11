@@ -13,13 +13,13 @@ This project is made using HTML, CSS, JavaScript and Bootstrap CSS. It is my sec
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AmaanNaseh/tasky-project-devtown.git
+git clone https://github.com/AmaanNaseh/devtown-internship-projects.git
 ```
 
 2. Open project folder in your IDE or navigate to it
 
 ```bash
-cd tasky-project-devtown
+cd devtown-internship-projects/TASKY
 ```
 
 3. Copy path of index.html and paste in browser to access the website or Right click index.html and open with live server (make sure to install Live Server Extension by Ritwick Dey)

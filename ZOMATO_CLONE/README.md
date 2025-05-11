@@ -13,13 +13,13 @@ This project is made using HTML and CSS. It is my first project during my intern
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AmaanNaseh/zomato-clone-project-devtown.git
+git clone https://github.com/AmaanNaseh/devtown-internship-projects.git
 ```
 
 2. Open project folder in your IDE or navigate to it
 
 ```bash
-cd zomato-clone-project-devtown
+cd devtown-internship-projects/ZOMATO_CLONE
 ```
 
 3. Copy path of index.html and paste in browser to access the website or Right click index.html and open with live server (make sure to install Live Server Extension by Ritwick Dey)

@@ -13,13 +13,13 @@ This project is made using Node.js, Express.js and MongoDB. It is my third proje
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AmaanNaseh/book-management-api-project-devtown.git
+git clone https://github.com/AmaanNaseh/devtown-internship-projects.git
 ```
 
 2. Open project folder in your IDE or navigate to it
 
 ```bash
-cd book-management-api-project-devtown
+cd devtown-internship-projects/BOOK_MANAGEMENT
 ```
 
 3. Install the dependencies

@@ -13,13 +13,13 @@ This project is made using React.js, Tailwind CSS and API. It is my forth and la
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AmaanNaseh/bookmyshow-clone-project-devtown.git
+git clone https://github.com/AmaanNaseh/devtown-internship-projects.git
 ```
 
 2. Open project folder in your IDE or navigate to it
 
 ```bash
-cd bookmyshow-clone-project-devtown
+cd devtown-internship-projects/BOOKMYSHOW_CLONE
 ```
 
 3. Install the dependencies
